@@ -31,4 +31,4 @@ Key goals of the project:
 - **VS Code** – Used as the primary development environment
 
 ## 👨‍💻 Source Code
-https://github.com/Gaytan2002/PasswordGenerator-ChromeExtension
+https://github.com/Gaytan2002/PasswordGenerator-ChromeExtension.SC
