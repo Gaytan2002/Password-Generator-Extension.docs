@@ -29,3 +29,6 @@ Key goals of the project:
 - **Chrome Extension API (Manifest V3)** – Defined the extension’s behavior and permissions  
 - **Git & GitHub** – Version control and public project hosting  
 - **VS Code** – Used as the primary development environment
+
+## 👨‍💻 Source Code
+https://github.com/Gaytan2002/PasswordGenerator-ChromeExtension
